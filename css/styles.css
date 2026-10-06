@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  color: #0d2b79;
+  background-color: #f9f6f0;
+}
+
+.div-logo {
+  font-family: "Cinzel", serif;
+  font-size: 3.5rem;
+  justify-content: center;
+}
+
+.logo {
+  font-family: "Great Vibes", cursive;
+  font-size: 10rem;
+  color: #0d2b79;
+  text-decoration: none;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-nav ul li a {
+  font-family: "Cinzel", serif;
+  text-decoration: none;
+  font-size: 2rem;
+  color: #0d2b79;
+  text-decoration: none;
+  padding: 2rem;
+}
